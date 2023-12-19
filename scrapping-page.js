@@ -2,27 +2,22 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-async function scrapeHackerNews() {
+async function scrapeNewPage() {
   try {
-    // Fetch HTML content from the Hacker News page
-    const response = await axios.get('https://news.ycombinator.com/');
+    const url = 'https://news.ycombinator.com/'
+    const response = await axios.get(url);
     const html = response.data;
-    // console.log(response)
-    // Load HTML content into Cheerio for easier manipulation
+
     const $ = cheerio.load(html);
-    // Extract information from each news item
     const results = [];
     $('tr.athing').each((index, element) => {
       const title = $(element).find(' .titleline a').text().trim();
       const url = $(element).find('.titleline a').attr('href');
       const commentsText = $(element).next().find('.subtext a:contains("comments")').text().trim().split(' ')[0];
       const comments = parseInt(commentsText) || 0;
-
       results.push({ title, url, comments });
     }); 
-    console.log("result", results)
 
-    // Group results based on comment ranges
     const groupedResults = {
       '0-100': [],
       '101-200': [],
@@ -42,12 +37,7 @@ async function scrapeHackerNews() {
       }
     });
 
-    // Export results as JSON
-    fs.writeFileSync('hacker_news_results.json', JSON.stringify(groupedResults, null, 2));
-
-    // Export results as CSV (optional)
-    const csvContent = results.map(result => `${result.title},${result.url},${result.comments}`).join('\n');
-    fs.writeFileSync('hacker_news_results.csv', `Title,URL,Comments\n${csvContent}`);
+    fs.writeFileSync('news_page_results.json', JSON.stringify(groupedResults, null, 2));
 
     console.log('Scraping and exporting completed.');
   } catch (error) {
@@ -55,5 +45,4 @@ async function scrapeHackerNews() {
   }
 }
 
-// Run the scraping function
-scrapeHackerNews();
+scrapeNewPage();

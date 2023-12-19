@@ -1,0 +1,160 @@
+{
+  "0-100": [
+    {
+      "title": "Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)tokyodev.com",
+      "url": "https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook",
+      "comments": 7
+    },
+    {
+      "title": "Grindavik [video]youtube.com",
+      "url": "https://www.youtube.com/watch?v=hvcP4kVVOnk",
+      "comments": 19
+    },
+    {
+      "title": "PostgREST: Providing HTML Content Using Htmxpostgrest.org",
+      "url": "https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html",
+      "comments": 58
+    },
+    {
+      "title": "Librum: Open-Source e-book platformgithub.com/librum-reader",
+      "url": "https://github.com/Librum-Reader/Librum",
+      "comments": 30
+    },
+    {
+      "title": "Volcanic eruption started just north of the town of Grindavik, Icelandvisir.is",
+      "url": "https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga",
+      "comments": 7
+    },
+    {
+      "title": "Lessons from a never-ending personal projectsiddhesh.substack.com",
+      "url": "https://siddhesh.substack.com/p/projects",
+      "comments": 5
+    },
+    {
+      "title": "Python, C, Assembly – Faster Cosine Similarityashvardanian.com",
+      "url": "https://ashvardanian.com/posts/python-c-assembly-comparison/",
+      "comments": 27
+    },
+    {
+      "title": "Copyright claim against Tolkien estate backfires on LOTR fanfiction authortheguardian.com",
+      "url": "https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author",
+      "comments": 30
+    },
+    {
+      "title": "Ventoyventoy.net",
+      "url": "https://www.ventoy.net/en/index.html",
+      "comments": 89
+    },
+    {
+      "title": "LLMLingua: Compressing Prompts for Faster Inferencinggithub.com/microsoft",
+      "url": "https://github.com/microsoft/LLMLingua",
+      "comments": 6
+    },
+    {
+      "title": "PostgreSQL 16 Bi-Directional Logical Replicationhighgo.ca",
+      "url": "https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/",
+      "comments": 32
+    },
+    {
+      "title": "Tiny Code Christmaslovebyte.party",
+      "url": "https://tcc.lovebyte.party/",
+      "comments": 3
+    },
+    {
+      "title": "I Love Rubyeliseshaffer.com",
+      "url": "https://eliseshaffer.com/2023/12/18/i-love-ruby/",
+      "comments": 97
+    },
+    {
+      "title": "Transaction Isolation in Postgresthenile.dev",
+      "url": "https://www.thenile.dev/blog/transaction-isolation-postgres",
+      "comments": 21
+    },
+    {
+      "title": "Flipboard Begins to Federateflipboard.medium.com",
+      "url": "https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa",
+      "comments": 89
+    },
+    {
+      "title": "A Forth Vocabulary for Iterationinformation-superhighway.net",
+      "url": "https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration",
+      "comments": 14
+    },
+    {
+      "title": "Wordle-Solving Robot [video]youtube.com",
+      "url": "https://www.youtube.com/watch?v=_QHz_5pqPuo",
+      "comments": 0
+    },
+    {
+      "title": "Terrapin Attack for prefix truncation in SSHterrapin-attack.com",
+      "url": "https://terrapin-attack.com",
+      "comments": 30
+    },
+    {
+      "title": "Positive labor sorting has been increasing for men in the last several decadesrichmondfed.org",
+      "url": "https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-41",
+      "comments": 19
+    },
+    {
+      "title": "Desalination can beat batteries for excess energyieee.org",
+      "url": "https://spectrum.ieee.org/pumped-water-energy-storage",
+      "comments": 86
+    },
+    {
+      "title": "Many options for running Mistral models in your terminal using LLMsimonwillison.net",
+      "url": "https://simonwillison.net/2023/Dec/18/mistral/",
+      "comments": 49
+    },
+    {
+      "title": "Greyhound bus stops are valuable assetscnn.com",
+      "url": "https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html",
+      "comments": 79
+    },
+    {
+      "title": "New scalable, fault-tolerant, and efficient open-source MQTT brokergithub.com/thingsboard",
+      "url": "https://github.com/thingsboard/tbmq",
+      "comments": 65
+    },
+    {
+      "title": "Paged Out Issue #3pagedout.institute",
+      "url": "https://pagedout.institute/?page=issues.php",
+      "comments": 10
+    }
+  ],
+  "101-200": [
+    {
+      "title": "Progress toward a GCC-based Rust compilerlwn.net",
+      "url": "https://lwn.net/SubscriberLink/954787/41470c731eda02a4/",
+      "comments": 169
+    },
+    {
+      "title": "Why are things expensive?why-expensive.com",
+      "url": "https://www.why-expensive.com/",
+      "comments": 114
+    },
+    {
+      "title": "Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigationandroidauthority.com",
+      "url": "https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/",
+      "comments": 165
+    },
+    {
+      "title": "The British Library URL has been offline due to cyberattack for 10 daysbl.uk",
+      "url": "https://www.bl.uk/",
+      "comments": 101
+    }
+  ],
+  "201-300": [
+    {
+      "title": "Apple to halt Apple Watch Series 9 and Ultra 2 sales in the US this week9to5mac.com",
+      "url": "https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/",
+      "comments": 229
+    }
+  ],
+  "301-n": [
+    {
+      "title": "Figma and Adobe abandon proposed mergerfigma.com",
+      "url": "https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/",
+      "comments": 853
+    }
+  ]
+}
