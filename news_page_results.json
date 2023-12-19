@@ -3,17 +3,17 @@
     {
       "title": "Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)tokyodev.com",
       "url": "https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook",
-      "comments": 7
+      "comments": 9
     },
     {
       "title": "Grindavik [video]youtube.com",
       "url": "https://www.youtube.com/watch?v=hvcP4kVVOnk",
-      "comments": 19
+      "comments": 20
     },
     {
       "title": "PostgREST: Providing HTML Content Using Htmxpostgrest.org",
       "url": "https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html",
-      "comments": 58
+      "comments": 59
     },
     {
       "title": "Librum: Open-Source e-book platformgithub.com/librum-reader",
@@ -31,14 +31,14 @@
       "comments": 5
     },
     {
-      "title": "Python, C, Assembly – Faster Cosine Similarityashvardanian.com",
-      "url": "https://ashvardanian.com/posts/python-c-assembly-comparison/",
-      "comments": 27
-    },
-    {
       "title": "Copyright claim against Tolkien estate backfires on LOTR fanfiction authortheguardian.com",
       "url": "https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author",
       "comments": 30
+    },
+    {
+      "title": "Python, C, Assembly – Faster Cosine Similarityashvardanian.com",
+      "url": "https://ashvardanian.com/posts/python-c-assembly-comparison/",
+      "comments": 27
     },
     {
       "title": "Ventoyventoy.net",
@@ -66,14 +66,14 @@
       "comments": 97
     },
     {
-      "title": "Transaction Isolation in Postgresthenile.dev",
-      "url": "https://www.thenile.dev/blog/transaction-isolation-postgres",
-      "comments": 21
-    },
-    {
       "title": "Flipboard Begins to Federateflipboard.medium.com",
       "url": "https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa",
       "comments": 89
+    },
+    {
+      "title": "Transaction Isolation in Postgresthenile.dev",
+      "url": "https://www.thenile.dev/blog/transaction-isolation-postgres",
+      "comments": 21
     },
     {
       "title": "A Forth Vocabulary for Iterationinformation-superhighway.net",
@@ -91,14 +91,14 @@
       "comments": 30
     },
     {
-      "title": "Positive labor sorting has been increasing for men in the last several decadesrichmondfed.org",
-      "url": "https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-41",
-      "comments": 19
-    },
-    {
       "title": "Desalination can beat batteries for excess energyieee.org",
       "url": "https://spectrum.ieee.org/pumped-water-energy-storage",
       "comments": 86
+    },
+    {
+      "title": "Positive labor sorting has been increasing for men in the last several decadesrichmondfed.org",
+      "url": "https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-41",
+      "comments": 19
     },
     {
       "title": "Many options for running Mistral models in your terminal using LLMsimonwillison.net",
@@ -135,12 +135,12 @@
     {
       "title": "Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigationandroidauthority.com",
       "url": "https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/",
-      "comments": 165
+      "comments": 167
     },
     {
       "title": "The British Library URL has been offline due to cyberattack for 10 daysbl.uk",
       "url": "https://www.bl.uk/",
-      "comments": 101
+      "comments": 102
     }
   ],
   "201-300": [
